@@ -1,0 +1,23 @@
+body
+{
+    background-color:yellow;
+}
+
+.th {color:red;
+    background-color:blue;
+    font-size: 15pt;
+    font-family: 'Times New Roman';}
+.nnb {color: blue;
+    background-color: red;
+    font-size: 15pt;
+    font-family: 'Times New Roman';
+    }
+
+.mf {color: green;
+    background-color:white;
+    font-size: 15pt;
+    font-family: 'Times New Roman';  }
+
+.uvod{text-align: center;
+    color: white;
+background-color: tomato;}
